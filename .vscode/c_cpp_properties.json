@@ -1,0 +1,45 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/zhou/two/pb_rm_simulation/install/teb_local_planner/include/**",
+        "/home/zhou/two/pb_rm_simulation/install/teb_msgs/include/**",
+        "/home/zhou/two/pb_rm_simulation/install/ros2_livox_simulation/include/**",
+        "/home/zhou/two/pb_rm_simulation/install/robot_serial/include/**",
+        "/home/zhou/two/pb_rm_simulation/install/pointcloud_to_laserscan/include/**",
+        "/home/zhou/two/pb_rm_simulation/install/icp_registration/include/**",
+        "/home/zhou/two/pb_rm_simulation/install/fast_lio/include/**",
+        "/home/zhou/two/pb_rm_simulation/install/livox_ros_driver2/include/**",
+        "/home/zhou/two/pb_rm_simulation/install/linefit_ground_segmentation/include/**",
+        "/home/zhou/two/pb_rm_simulation/install/imu_complementary_filter/include/**",
+        "/home/zhou/two/pb_rm_simulation/install/fake_vel_transform/include/**",
+        "/home/zhou/two/pb_rm_simulation/install/costmap_converter/include/**",
+        "/home/zhou/two/pb_rm_simulation/install/costmap_converter_msgs/include/**",
+        "/home/zhou/ws_livox/install/livox_ros_driver2/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/zhou/two/pb_rm_simulation/src/rm_localization/FAST_LIO/include/**",
+        "/home/zhou/two/pb_rm_simulation/src/rm_localization/icp_registration/include/**",
+        "/home/zhou/two/pb_rm_simulation/src/rm_localization/point_lio/include/**",
+        "/home/zhou/two/pb_rm_simulation/src/rm_navigation/costmap_converter/costmap_converter/include/**",
+        "/home/zhou/two/pb_rm_simulation/src/rm_navigation/fake_vel_transform/include/**",
+        "/home/zhou/two/pb_rm_simulation/src/rm_navigation/teb_local_planner/teb_local_planner/include/**",
+        "/home/zhou/two/pb_rm_simulation/src/rm_perception/imu_complementary_filter/include/**",
+        "/home/zhou/two/pb_rm_simulation/src/rm_perception/linefit_ground_segementation_ros2/linefit_ground_segmentation/include/**",
+        "/home/zhou/two/pb_rm_simulation/src/rm_perception/pointcloud_to_laserscan/include/**",
+        "/home/zhou/two/pb_rm_simulation/src/rm_simulation/livox_laser_simulation_RO2/include/**",
+        "/home/zhou/two/pb_rm_simulation/src/robot_serial/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
